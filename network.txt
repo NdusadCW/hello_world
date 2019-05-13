@@ -13,3 +13,9 @@ branch:
 java
 cpp
 python
+
+hack
+sql
+xss
+lfi
+phishing
