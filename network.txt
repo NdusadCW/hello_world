@@ -14,8 +14,10 @@ java
 cpp
 python
 
+hacking
 hack
 sql
 xss
 lfi
 phishing
+
